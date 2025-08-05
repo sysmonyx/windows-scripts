@@ -33,6 +33,7 @@ $apps = @(
     "Alex313031.Thorium.AVX2"                                   # Thorium (AVX2)
     "TorProject.TorBrowser"                                     # Tor Browser
     "Vivaldi.Vivaldi"                                           # Vivaldi
+    "Zen-Team.Zen-Browser"                                      # Zen Browser
 
     # Cloud Storage --------------------------------------------------------------------------------
     "Box.Box"                                                   # Box Client
@@ -199,6 +200,7 @@ $apps = @(
     # Special Tools --------------------------------------------------------------------------------
     "Nlitesoft.NTLite"                                          # NTLite
     "TechPowerUp.NVCleanstall"                                  # NVCleanstall
+    "Google.PlatformTools"                                      # Google PlatformTools (ADB)
 
 )
 ################################################################################################################################
